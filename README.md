@@ -36,7 +36,7 @@
    <div align="center"  class="icons-social" style="margin-left: 10px;">
      <a href="https://github.com/AleCintas02" style="margin-left: 10px;" target="_blank" href="https://github.com/dexprexxtion">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-     <a style="margin-left: 10px;" target="_blank" href="mailto://ketanchowdhury@protonmail.com">
+     <a style="margin-left: 10px;" target="_blank" href="mailto://alecintas03@gmail.com">
        <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="40" width="50">
 </p>
   
