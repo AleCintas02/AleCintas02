@@ -13,7 +13,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **Languages and Framewoks**:
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,php,laravel,mysql)](https://skillicons.dev)
   
