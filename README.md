@@ -33,15 +33,15 @@
 
  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
 <p align="left">
- <a href="https://linkedin.com/in/hani-fares-072bb5a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hani-fares-072bb5a4/" height="30" width="40" /></a>
  <a href="https://www.instagram.com/elhani__293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhani__293" height="30" width="40" /></a>
-</p>
-  
-   <div align="center"  class="icons-social" style="margin-left: 10px;">
-     <a href="https://github.com/AleCintas02" style="margin-left: 10px;" target="_blank" href="https://github.com/dexprexxtion">
+	<a href="https://github.com/AleCintas02" style="margin-left: 10px;" target="_blank" href="https://github.com/dexprexxtion">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
      <a style="margin-left: 10px;" target="_blank" href="mailto://ketanchowdhury@protonmail.com">
        <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="40" width="50">
+</p>
+  
+   <div align="center"  class="icons-social" style="margin-left: 10px;">
+     
 
 ------
 
