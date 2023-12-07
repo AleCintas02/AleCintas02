@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Alejandro Cintas</h1>
-<h3 align="center">Backend Developer</h3>
+<h1 align="center">Hi 👋, I'm Hani Fares</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+software+engineer+with+true+passion)](https://git.io/typing-svg)
+
+<img alt="Night Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=100% height="300px" align="center"/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
